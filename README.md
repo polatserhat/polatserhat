@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Serhat and I'm a iOS Develope from Türkiye</p>
+<p align="left">My name is Serhat and I'm a iOS Developer from Türkiye</p>
 
 ###
 
