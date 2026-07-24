@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Serhat and I'm from Türkiye</p>
+<p align="left"></p>
 
 ###
 
