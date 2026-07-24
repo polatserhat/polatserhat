@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Serhat and I'm a iOS Developer from Türkiye</p>
+<p align="left">My name is Serhat and I'm from Türkiye</p>
 
 ###
 
@@ -10,7 +10,8 @@
 
 ###
 
-<p align="left">📚 I'm currently learning Swift<br>🎯 Goals: to be competent in Kotlin as well</p>
+<p align="left">📚 MIS graduate skilled in data analysis, business intelligence, and process optimization. Experienced in database
+management and business operations, using SQL, Python, Power BI, and Excel to improve eﬃciency.</p>
 
 ###
 
